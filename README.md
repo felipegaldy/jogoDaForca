@@ -15,7 +15,12 @@
 - [HTML]
 - [CSS]
 - [Javascript]
+### Autor
 
+<a href="https://github.com/felipegaldy/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99551212?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Felipe Silveira</b></sub></a> <a href="https://www.linkedin.com/in/felipesilveirasp/" title="">🚀</a>
 
 Feito com ❤️ por Felipe Silveira 👋🏽 Entre em contato!
 
