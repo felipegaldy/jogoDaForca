@@ -1,6 +1,8 @@
 # Alura Challenge | Oracle One | Lógica de Programação - Jogo da Forca
 ### O jogo da forca é um jogo de palavras em que o jogador deve adivinhar a palavra ou frase escondida, letra por letra.
 
+Jogue e se diverta basta acessar https://felipegaldy.github.io/jogoDaForca/
+
 ###  Funcionalidades
 
 - [x] Jogar
